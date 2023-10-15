@@ -1,7 +1,6 @@
-Была создана новая папка под названием GIT_HW
-В папке GIT_HW был создан новый файл под названием HomeWorkGit
-git branch BrachHW
-git checkout BranchHW
+Была создана новая папка GIT
+В папке GIT была создан новый файл HomeWorkGit
+В папке GIT открыт bash
 git init
 git status
 git add .
@@ -13,4 +12,4 @@ git commit -m "new"
 git checkout master
 git branch second
 
-Переименование master в main git branch --move master main
+Переименование master в main делаеться так git branch --move master main
