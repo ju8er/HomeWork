@@ -1,0 +1,6 @@
+git branch BrachHW
+git checkout BranchHW
+git init
+git status
+git add .
+git commit -a 
